@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.body {
+  max-width: 400px;
+  margin: auto;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  border-radius: 50%;
+}
+
+.op {
+  background-color: orange;
+}
+
+.numkey {
+  background-color: grey;
+}
+
+.result {
+  height: 60px;
+  background-color: black;
+  width: 100%;
+}
+
+.result p {
+  color: aliceblue;
+  font-size: 40px;
+  margin: 5px;
+  text-align: right;
+}
